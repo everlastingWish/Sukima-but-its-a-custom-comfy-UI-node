@@ -23,4 +23,4 @@ Note that this repository does not contain pre-trained models. You must provide 
 - Latest Requirements Update: February 20th, 2026
 
 # License
-Distributed under the [GPL-2.0](LICENSE) license.
+This project is an integration wrapper. All original logic and code from Sukima remain under its original [GPL-2.0 License](LICENSE). Modifications and ComfyUI node integration logic provided in this repo are also distributed under [GPL-2.0](LICENSE) to maintain compatibility.
